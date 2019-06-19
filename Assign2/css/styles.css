@@ -1,0 +1,118 @@
+
+a{
+  color: black;
+}
+
+a:hover{
+  color: white;
+}
+
+a:link{
+  text-decoration: none;
+}
+
+a:visited{
+  text-decoration: none;
+}
+
+
+
+
+
+#idmenu{
+  background-color: #1E5F55;
+}
+
+#welcomeg{
+  padding-left: 3em;
+  color:white;
+}
+
+#stayup{
+  padding-left: 20em;
+  color:white;
+}
+
+#menulink{
+  padding-left: 0.5em;
+  color:#2FC884;
+}
+
+section{
+  background-color: #3B9368;
+  width: 1000px;
+}
+
+
+
+
+#idMyBlogcolor{
+  font-size: 50px;
+  color:white;
+
+}
+#idDesriptioncolor{
+  font-size: 25px;
+  color:white;
+}
+
+
+
+
+
+#idbottommenu{
+  background-color: #5FB08B;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+#idspace1{
+  padding-left: 30px;
+}
+#idbottommenufont{
+  /* color:#161817; */
+  font-weight:bold;
+  padding-left: 0.5em;
+  font-size: 25px
+}
+
+
+
+
+#idspacesidemenu{
+  padding-left: 40px;
+}
+#idtextcolor{
+  color:teal;
+}
+#linetextcolor{
+  border-left: green solid;
+  padding-left: 1em;
+}
+#idsidemenubackground{
+  position:relative;
+  bottom:26px;
+  background-color:#C3C7C5;
+
+  width: 320px;
+  height: 370px;
+}
+
+
+
+
+#idfootercolor{
+  background-color: #1E5F55;
+}
+#idfooterlinkcolor{
+  padding-left: 0.5em;
+  color:#2FC884;
+}
+#idfootertextcolor{
+  padding-left: 0.5em;
+  color:white;
+}
+#idcopyrightcolor{
+  padding-left: 20em;
+  padding-bottom: 5em;
+  color:#2FC884;
+}
